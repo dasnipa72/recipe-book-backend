@@ -8,10 +8,12 @@ database:"",
 host:"",
 dialect:"",
 
-##install 
+#install 
+
 npm install 
 
-##Start server
+#Start server
+
 node server.js
 
 
