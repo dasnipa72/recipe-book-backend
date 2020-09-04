@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "nipa",
+      "database": "react-database",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "",
+      "password": "",
+      "database": "",
+      "host": "",
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "",
+      "password": "",
+      "database": "",
+      "host": "",
+      "dialect": "postgres"
+    }
+  }
